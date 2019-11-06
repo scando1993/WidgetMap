@@ -1,0 +1,6 @@
+html, body, #mapid {
+    height: 400px;
+    width: 600px;
+    margin: 0px;
+    padding: 0px
+}
